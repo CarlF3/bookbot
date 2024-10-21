@@ -1,3 +1,3 @@
 # bookbot
 A bookbot made while following boot.dev course.
-This is the first project.
+This is my first project with boot.dev.
